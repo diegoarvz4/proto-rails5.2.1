@@ -1,3 +1,17 @@
+# Script Parser
+
+> This is a Rails 5 project template for cloning and starting a quick project.
+
+## Built With
+ 
+ - Ruby
+ - Rails
+ 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
